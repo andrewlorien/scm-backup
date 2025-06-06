@@ -52,4 +52,4 @@ options:
         timestampFormat: yyyy-MM-dd_HHmm
 
         # if this is not empty, save the files to an S3 bucket
-        S3BucketName: dof-mgmt-artefacts-bucket
+        s3BucketName: dof-mgmt-artefacts-bucket
